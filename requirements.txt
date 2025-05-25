@@ -1,0 +1,47 @@
+pydantic
+# LangChain Core
+langchain
+langchain-core
+langchain-community
+
+# OpenAI Integration
+langchain-openai
+openai
+
+# Anthropic Integration
+langchain-anthropic
+
+# Google Gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
+
+#groq Integration
+langchain-groq
+groq
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Environment Variable Management
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+scikit-learn
+
+#streamlit ui
+streamlit
+
+#libraies
+pypdf
+
+# document loaders
+bs4
+arxiv
+pymupdf
+wikipedia
+
+#splitters
+langchain-text-splitters
