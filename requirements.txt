@@ -14,6 +14,7 @@ langchain-anthropic
 # Google Gemini (PaLM) Integration
 langchain-google-genai
 google-generativeai
+langchain_google_genai
 
 #groq Integration
 langchain-groq
@@ -23,6 +24,7 @@ groq
 langchain-huggingface
 transformers
 huggingface-hub
+sentence-transformers
 
 # Environment Variable Management
 python-dotenv
@@ -45,3 +47,25 @@ wikipedia
 
 #splitters
 langchain-text-splitters
+
+#vector store
+faiss-cpu
+langchain-pinecone
+
+pinecone
+
+
+
+langchain-community
+faiss-cpu
+langchain_google_genai
+pypdf
+langchain 
+langchain-pinecone
+weaviate-client
+langchain_weaviate
+wikipedia
+langgraph
+chromadb
+yfinance
+duckduckgo_search
