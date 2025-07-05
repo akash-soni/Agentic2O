@@ -69,3 +69,8 @@ langgraph
 chromadb
 yfinance
 duckduckgo_search
+
+#AUCTOGEN
+autogen-agentchat
+autogen-core
+autogen-ext
