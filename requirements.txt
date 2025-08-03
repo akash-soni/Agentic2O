@@ -74,3 +74,10 @@ duckduckgo_search
 autogen-agentchat
 autogen-core
 autogen-ext
+autogen-ext[http-tool]
+autogen-ext[openai]
+docker
+autogen-ext[docker]
+autogen-ext[mcp]
+
+

@@ -1,0 +1,23 @@
+{
+	"servers": {
+		"time-mcp-server": {
+			"type": "stdio",
+			"command": "uvx",
+			"args": [
+				"mcp-server-time"
+			]
+		},
+		
+		"serper": {
+			"type": "stdio",
+			"command": "uvx",
+			"args": [
+				"serper-mcp-server"
+			],
+			"env":{
+				"SERPER_API_KEY": "${env:SERPER_API_KEY"},
+			}
+		},
+
+	"inputs": []
+	}
