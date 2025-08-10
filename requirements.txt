@@ -81,3 +81,7 @@ autogen-ext[docker]
 autogen-ext[mcp]
 
 
+flask
+pyngrok
+flask_cors
+
